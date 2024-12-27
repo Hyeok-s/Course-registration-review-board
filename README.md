@@ -1,5 +1,8 @@
 # 수강 후기 게시판
 
+### 사용기술
+java, jsp, apache, mysql
+
 ## 개발 기획 배경
 ![1-img1](https://github.com/user-attachments/assets/552689e5-2900-4a8a-864a-e8c44bb8ff23)
 
@@ -19,6 +22,3 @@
 ![1-6img](https://github.com/user-attachments/assets/194d7673-51c1-4c91-a3ef-8600eca5f7c0)
 
 이로써 수강한 강의들에 대해 서로 후기를 공유하고 다음 수강 신청시 수강하는 강좌에 대한 만족도를 높일 수 있다고 생각한다.
-
-### 사용기술
-java, jsp, apache, mysql
